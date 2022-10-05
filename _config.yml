@@ -11,8 +11,14 @@ github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "但行好事，莫问前程。"
-sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "你镇定自若而不是人云亦云;<br>如果你有梦想，
+又能不迷失自我；<br>如果在成功当中能够不忘形于色，
+而在灾难之后也勇于咀嚼苦果；<br>如果你跟村夫交谈而不变恭之态，
+和王侯罢颜而不露谄；<br>如果别人的爱情左右不了你，
+如果你与人为伍然任何独立；<br>如果昏迷的骚扰动摇不了你的意志，
+你可以等自己平心静气再做答时……
+，你的修养要如天地般博大，而你，就是一个真正的男人汉了!"
+sidebar-avatar: /img/tx.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
